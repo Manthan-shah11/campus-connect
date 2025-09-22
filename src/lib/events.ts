@@ -76,10 +76,7 @@ const eventsData: Event[] = [
       'Unleash your creativity with colors in this hands-on workshop.',
     longDescription:
       "Get into the festive spirit by learning the beautiful art of Rangoli. This workshop will cover basic to advanced techniques for creating stunning traditional and modern designs. All materials will be provided. It's a perfect opportunity to relax, be creative, and prepare for the upcoming Diwali celebrations.",
-    image: {
-        url: 'https://picsum.photos/seed/rangoliArt/600/400',
-        hint: 'rangoli art',
-    },
+    image: getImage('rangoliNew'),
     colorAccent: 'hsl(30, 95%, 60%)',
   },
   {
@@ -92,10 +89,7 @@ const eventsData: Event[] = [
     description: 'Welcome Lord Ganesha with music, dance, and devotion.',
     longDescription:
       'Experience the vibrant and devotional atmosphere of Ganpati Aagman. We will welcome the idol of Lord Ganesha to our campus with a grand procession featuring dhol-tasha, traditional dances, and chants. The celebration marks the beginning of the 10-day Ganeshotsav on campus.',
-    image: {
-        url: 'https://picsum.photos/seed/ganeshaStatue/600/400',
-        hint: 'ganesha statue',
-    },
+    image: getImage('ganpati'),
     colorAccent: 'hsl(25 95% 53%)',
   },
   {
@@ -109,10 +103,7 @@ const eventsData: Event[] = [
       'Get ready to dance the night away with Garba and Dandiya beats with Kajal Naik and Kaushik Parekh!',
     longDescription:
       "Gear up for Navratri with our grand pre-celebration! Don your traditional attire and join us for an evening of energetic Garba and Dandiya Raas with VR Event by Kajal Naik and Kaushik Parekh and Band. We'll have live music, food stalls, and prizes for the best dancers and best-dressed attendees. It's an evening of culture, music, and community you won't want to miss. For details, contact: 97129 62662.",
-    image: {
-        url: 'https://picsum.photos/seed/garbaDance/600/400',
-        hint: 'garba dance',
-    },
+    image: getImage('navratri'),
     colorAccent: 'hsl(280 80% 60%)',
   },
 ];
