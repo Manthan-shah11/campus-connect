@@ -9,37 +9,37 @@
     {
       "id": "elicium",
       "description": "A cultural fest with stage lights and a crowd.",
-      "imageUrl": "https://i.imgur.com/2A2dEcF.png",
+      "imageUrl": "https://picsum.photos/seed/elicium/600/400",
       "imageHint": "music festival"
     },
     {
       "id": "bloodDonation",
       "description": "A medical setup for blood donation.",
-      "imageUrl": "https://i.imgur.com/hB2b0nC.png",
+      "imageUrl": "https://picsum.photos/seed/blood/600/400",
       "imageHint": "blood donation"
     },
     {
       "id": "yogaDay",
       "description": "People doing yoga in a park.",
-      "imageUrl": "https://i.imgur.com/8Qk3b3F.png",
+      "imageUrl": "https://picsum.photos/seed/yoga/600/400",
       "imageHint": "yoga park"
     },
     {
       "id": "rangoli",
       "description": "A colorful and intricate rangoli design.",
-      "imageUrl": "https://i.imgur.com/pZKmFvL.png",
+      "imageUrl": "https://picsum.photos/seed/rangoli/600/400",
       "imageHint": "rangoli art"
     },
     {
       "id": "ganpati",
       "description": "A celebration for the Ganpati festival.",
-      "imageUrl": "https://i.imgur.com/xO9oO7P.png",
+      "imageUrl": "https://picsum.photos/seed/ganpati/600/400",
       "imageHint": "ganesha festival"
     },
     {
       "id": "navratri",
       "description": "People dancing Garba during Navratri.",
-      "imageUrl": "https://i.imgur.com/9O0dYwA.png",
+      "imageUrl": "https://picsum.photos/seed/navratri/600/400",
       "imageHint": "garba dance"
     }
   ]
