@@ -28,7 +28,7 @@
     {
       "id": "rangoli",
       "description": "A colorful and intricate rangoli design on the floor.",
-      "imageUrl": "https://images.unsplash.com/photo-1603787382258-9c1a01ae9808?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://picsum.photos/seed/rangoli/600/400",
       "imageHint": "rangoli art"
     },
     {
@@ -42,6 +42,12 @@
       "description": "People in traditional attire dancing Garba during Navratri.",
       "imageUrl": "https://images.unsplash.com/photo-1698273836798-e7373f1b5f25?q=80&w=600&h=400&fit=crop",
       "imageHint": "garba dance"
+    },
+    {
+      "id": "rangoliNew",
+      "description": "A vibrant and detailed rangoli artwork on a dark surface.",
+      "imageUrl": "https://images.unsplash.com/photo-1604430459341-4c74a5a2f5a6?q=80&w=600&h=400&fit=crop",
+      "imageHint": "rangoli art"
     }
   ]
 }
