@@ -49,10 +49,10 @@ export function LoginForm() {
       if (user) {
         localStorage.setItem('loggedInUser', JSON.stringify({ email: user.email }));
         toast({
-          title: 'Login Successful',
-          description: 'Welcome back! Redirecting to events...',
+          title: 'Login Successful!',
+          description: 'Welcome back! Redirecting to the home page...',
         });
-        router.push('/events');
+        router.push('/');
       } else {
         toast({
           title: 'Login Failed',

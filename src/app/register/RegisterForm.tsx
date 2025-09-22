@@ -77,7 +77,7 @@ export function RegisterForm() {
       localStorage.setItem('registeredUsers', JSON.stringify(users));
 
       toast({
-        title: 'Registration Successful',
+        title: 'Sign-up Successful!',
         description: 'Your account has been created. Please log in.',
       });
       router.push('/login');
