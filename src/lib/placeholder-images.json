@@ -34,13 +34,13 @@
     {
       "id": "ganpati",
       "description": "A beautiful idol of Lord Ganesha during a festival.",
-      "imageUrl": "https://picsum.photos/seed/ganesha-idol/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1594957565846-9f8641951a82?q=80&w=600&h=400&fit=crop",
       "imageHint": "ganesha festival"
     },
     {
       "id": "navratri",
       "description": "People in traditional attire dancing Garba during Navratri.",
-      "imageUrl": "https://picsum.photos/seed/navratri-dance/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1698273836798-e7373f1b5f25?q=80&w=600&h=400&fit=crop",
       "imageHint": "garba dance"
     }
   ]
