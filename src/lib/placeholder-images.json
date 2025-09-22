@@ -1,3 +1,4 @@
+
 {
   "placeholderImages": [
     {
@@ -15,7 +16,7 @@
     {
       "id": "bloodDonation",
       "description": "A medical setup for blood donation.",
-      "imageUrl": "https://images.unsplash.com/photo-1582719202042-0657b502d7c5?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://images.unsplash.com/photo-1615461066841-6116e61058f4?q=80&w=600&h=400&fit=crop",
       "imageHint": "blood donation"
     },
     {
@@ -27,7 +28,7 @@
     {
       "id": "rangoli",
       "description": "A colorful and intricate rangoli design on the floor.",
-      "imageUrl": "https://images.unsplash.com/photo-1604432072319-93b677572d42?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://images.unsplash.com/photo-1698689354002-c863a0333391?q=80&w=600&h=400&fit=crop",
       "imageHint": "rangoli art"
     },
     {
