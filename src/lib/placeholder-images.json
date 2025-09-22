@@ -28,19 +28,19 @@
     {
       "id": "ganpati-aagman",
       "description": "A beautiful idol of Lord Ganesha during a festival.",
-      "imageUrl": "https://picsum.photos/seed/ganpati/600/400",
+      "imageUrl": "https://picsum.photos/seed/ganesha-festival/600/400",
       "imageHint": "ganesha festival"
     },
     {
       "id": "pre-navratri-celebration",
       "description": "People in traditional attire dancing Garba during Navratri.",
-      "imageUrl": "https://picsum.photos/seed/navratri/600/400",
+      "imageUrl": "https://picsum.photos/seed/garba-dance/600/400",
       "imageHint": "garba dance"
     },
     {
       "id": "rangoli-workshop",
       "description": "A vibrant and detailed rangoli artwork on a dark surface.",
-      "imageUrl": "https://picsum.photos/seed/rangoli/600/400",
+      "imageUrl": "https://picsum.photos/seed/colorful-rangoli/600/400",
       "imageHint": "rangoli art"
     }
   ]
