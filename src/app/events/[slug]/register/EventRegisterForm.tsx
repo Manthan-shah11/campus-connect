@@ -47,6 +47,13 @@ export function EventRegisterForm({ eventName }: EventRegisterFormProps) {
 
   const form = useForm<z.infer<typeof eventRegisterSchema>>({
     resolver: zodResolver(eventRegisterSchema),
+    defaultValues: {
+      name: '',
+      email: '',
+      mobile: '',
+      collegeId: '',
+      year: '',
+    },
   });
   
   useEffect(() => {
@@ -60,7 +67,13 @@ export function EventRegisterForm({ eventName }: EventRegisterFormProps) {
         router.push('/login');
     } else {
       const userData = JSON.parse(user);
-      form.reset({ email: userData.email });
+      form.reset({
+        email: userData.email,
+        name: '',
+        mobile: '',
+        collegeId: '',
+        year: '',
+      });
       setIsAuthLoading(false);
     }
   }, [router, toast, form]);
