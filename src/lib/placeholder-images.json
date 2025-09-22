@@ -2,44 +2,44 @@
   "placeholderImages": [
     {
       "id": "hero",
-      "description": "A vibrant college campus with students.",
-      "imageUrl": "https://images.unsplash.com/photo-1517840933437-a4d97c3b2fa8?q=80&w=1920&h=1080&fit=crop",
+      "description": "Students walking on a university campus.",
+      "imageUrl": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?q=80&w=1920&h=1080&fit=crop",
       "imageHint": "college campus"
     },
     {
       "id": "elicium",
       "description": "A cultural fest with stage lights and a crowd.",
-      "imageUrl": "https://picsum.photos/seed/elicium/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=600&h=400&fit=crop",
       "imageHint": "music festival"
     },
     {
       "id": "bloodDonation",
       "description": "A medical setup for blood donation.",
-      "imageUrl": "https://picsum.photos/seed/blood/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1582719202042-0657b502d7c5?q=80&w=600&h=400&fit=crop",
       "imageHint": "blood donation"
     },
     {
       "id": "yogaDay",
-      "description": "People doing yoga in a park.",
-      "imageUrl": "https://picsum.photos/seed/yoga/600/400",
+      "description": "People doing yoga in a park at sunrise.",
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=600&h=400&fit=crop",
       "imageHint": "yoga park"
     },
     {
       "id": "rangoli",
-      "description": "A colorful and intricate rangoli design.",
-      "imageUrl": "https://picsum.photos/seed/rangoli/600/400",
+      "description": "A colorful and intricate rangoli design on the floor.",
+      "imageUrl": "https://images.unsplash.com/photo-1604432072319-93b677572d42?q=80&w=600&h=400&fit=crop",
       "imageHint": "rangoli art"
     },
     {
       "id": "ganpati",
-      "description": "A celebration for the Ganpati festival.",
-      "imageUrl": "https://picsum.photos/seed/ganpati/600/400",
+      "description": "A beautiful idol of Lord Ganesha during a festival.",
+      "imageUrl": "https://images.unsplash.com/photo-1603807245821-9d553396d744?q=80&w=600&h=400&fit=crop",
       "imageHint": "ganesha festival"
     },
     {
       "id": "navratri",
-      "description": "People dancing Garba during Navratri.",
-      "imageUrl": "https://picsum.photos/seed/navratri/600/400",
+      "description": "People in traditional attire dancing Garba during Navratri.",
+      "imageUrl": "https://images.unsplash.com/photo-1664332988942-6394595a6308?q=80&w=600&h=400&fit=crop",
       "imageHint": "garba dance"
     }
   ]
