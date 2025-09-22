@@ -10,7 +10,13 @@ import {
   Menu,
 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
+import {
+  Sheet,
+  SheetContent,
+  SheetHeader,
+  SheetTitle,
+  SheetTrigger,
+} from '@/components/ui/sheet';
 import { usePathname } from 'next/navigation';
 import { cn } from '@/lib/utils';
 import { useState } from 'react';
@@ -84,15 +90,15 @@ export function Header() {
               </Button>
             </SheetTrigger>
             <SheetContent side="right">
-              <nav className="grid gap-6 text-lg font-medium">
-                <Link
-                  href="/"
-                  className="flex items-center gap-2 text-lg font-semibold"
-                  onClick={() => setIsSheetOpen(false)}
-                >
+              <SheetHeader className="border-b pb-4">
+                <SheetTitle className="flex items-center gap-2">
                   <GraduationCap className="h-7 w-7 text-primary" />
-                  <span className="sr-only">Campus Connect</span>
-                </Link>
+                  <span className="text-lg font-bold text-foreground font-headline">
+                    Campus Connect
+                  </span>
+                </SheetTitle>
+              </SheetHeader>
+              <nav className="grid gap-6 text-lg font-medium mt-6">
                 {navLinks.map(({ href, label }) => (
                   <NavLink key={href} href={href}>
                     {label}
