@@ -77,7 +77,7 @@ const eventsData: Event[] = [
     longDescription:
       "Get into the festive spirit by learning the beautiful art of Rangoli. This workshop will cover basic to advanced techniques for creating stunning traditional and modern designs. All materials will be provided. It's a perfect opportunity to relax, be creative, and prepare for the upcoming Diwali celebrations.",
     image: getImage('rangoli'),
-    colorAccent: 'hsl(45 90% 55%)',
+    colorAccent: 'hsl(30 90% 55%)',
   },
   {
     id: '5',
