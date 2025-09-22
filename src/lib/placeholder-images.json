@@ -9,37 +9,37 @@
     {
       "id": "elicium",
       "description": "A cultural fest with stage lights and a crowd.",
-      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://i.imgur.com/2A2dEcF.png",
       "imageHint": "music festival"
     },
     {
       "id": "bloodDonation",
       "description": "A medical setup for blood donation.",
-      "imageUrl": "https://images.unsplash.com/photo-1615461066841-6116e61058f4?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://i.imgur.com/hB2b0nC.png",
       "imageHint": "blood donation"
     },
     {
       "id": "yogaDay",
       "description": "People doing yoga in a park.",
-      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://i.imgur.com/8Qk3b3F.png",
       "imageHint": "yoga park"
     },
     {
       "id": "rangoli",
       "description": "A colorful and intricate rangoli design.",
-      "imageUrl": "https://images.unsplash.com/photo-1603787939222-72322c183745?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://i.imgur.com/pZKmFvL.png",
       "imageHint": "rangoli art"
     },
     {
       "id": "ganpati",
       "description": "A celebration for the Ganpati festival.",
-      "imageUrl": "https://images.unsplash.com/photo-1604551744185-523a7b137a89?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://i.imgur.com/xO9oO7P.png",
       "imageHint": "ganesha festival"
     },
     {
       "id": "navratri",
       "description": "People dancing Garba during Navratri.",
-      "imageUrl": "https://images.unsplash.com/photo-1695239510595-53472b535b91?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://i.imgur.com/9O0dYwA.png",
       "imageHint": "garba dance"
     }
   ]
