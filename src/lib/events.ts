@@ -96,13 +96,13 @@ const eventsData: Event[] = [
     id: '6',
     slug: 'pre-navratri-celebration',
     name: 'Pre-Navratri Celebration',
-    date: 'October 2, 2024',
+    date: 'September 20, 2024',
     time: '6:00 PM - 10:00 PM',
-    venue: 'Open Air Theatre',
+    venue: 'SDJ International College, Palsana & Maniba Aahir Samaj AC Hall, Palsana',
     description:
-      'Get ready to dance the night away with Garba and Dandiya beats.',
+      'Get ready to dance the night away with Garba and Dandiya beats with Kajal Naik and Kaushik Parekh!',
     longDescription:
-      "Gear up for Navratri with our grand pre-celebration! Don your traditional attire and join us for an evening of energetic Garba and Dandiya Raas. We'll have live music, food stalls, and prizes for the best dancers and best-dressed attendees. It's an evening of culture, music, and community you won't want to miss.",
+      "Gear up for Navratri with our grand pre-celebration! Don your traditional attire and join us for an evening of energetic Garba and Dandiya Raas with VR Event by Kajal Naik and Kaushik Parekh and Band. We'll have live music, food stalls, and prizes for the best dancers and best-dressed attendees. It's an evening of culture, music, and community you won't want to miss. For details, contact: 97129 62662.",
     image: getImage('navratri'),
     colorAccent: 'hsl(280 80% 60%)',
   },

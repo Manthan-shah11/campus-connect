@@ -3,43 +3,43 @@
     {
       "id": "hero",
       "description": "A vibrant college campus with students.",
-      "imageUrl": "https://picsum.photos/seed/hero/1920/1080",
+      "imageUrl": "https://images.unsplash.com/photo-1517840933437-a4d97c3b2fa8?q=80&w=1920&h=1080&fit=crop",
       "imageHint": "college campus"
     },
     {
       "id": "elicium",
       "description": "A cultural fest with stage lights and a crowd.",
-      "imageUrl": "https://picsum.photos/seed/elicium/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?q=80&w=600&h=400&fit=crop",
       "imageHint": "music festival"
     },
     {
       "id": "bloodDonation",
       "description": "A medical setup for blood donation.",
-      "imageUrl": "https://picsum.photos/seed/blood/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1615461066841-6116e61058f4?q=80&w=600&h=400&fit=crop",
       "imageHint": "blood donation"
     },
     {
       "id": "yogaDay",
       "description": "People doing yoga in a park.",
-      "imageUrl": "https://picsum.photos/seed/yoga/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=600&h=400&fit=crop",
       "imageHint": "yoga park"
     },
     {
       "id": "rangoli",
       "description": "A colorful and intricate rangoli design.",
-      "imageUrl": "https://picsum.photos/seed/rangoli/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1603787939222-72322c183745?q=80&w=600&h=400&fit=crop",
       "imageHint": "rangoli art"
     },
     {
       "id": "ganpati",
       "description": "A celebration for the Ganpati festival.",
-      "imageUrl": "https://picsum.photos/seed/ganpati/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1604551744185-523a7b137a89?q=80&w=600&h=400&fit=crop",
       "imageHint": "ganesha festival"
     },
     {
       "id": "navratri",
       "description": "People dancing Garba during Navratri.",
-      "imageUrl": "https://picsum.photos/seed/navratri/600/400",
+      "imageUrl": "https://images.unsplash.com/photo-1695239510595-53472b535b91?q=80&w=600&h=400&fit=crop",
       "imageHint": "garba dance"
     }
   ]
