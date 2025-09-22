@@ -8,8 +8,7 @@ import {
 } from '@/components/ui/dialog';
 import { Button } from '@/components/ui/button';
 import Image from 'next/image';
-import { CalendarDays, Clock, MapPin, Sparkles } from 'lucide-react';
-import { EventSummary } from './EventSummary';
+import { CalendarDays, Clock, MapPin } from 'lucide-react';
 
 type EventModalProps = {
   event: Event;
@@ -69,14 +68,6 @@ export function EventModal({ event }: EventModalProps) {
             <p className="text-sm leading-relaxed text-muted-foreground">
               {event.longDescription}
             </p>
-          </div>
-
-          <div>
-            <h3 className="mb-2 flex items-center gap-2 text-lg font-semibold font-headline text-foreground">
-              <Sparkles className="h-5 w-5 text-primary" />
-              AI Summary
-            </h3>
-            <EventSummary eventDetails={event.longDescription} />
           </div>
         </div>
       </DialogContent>
