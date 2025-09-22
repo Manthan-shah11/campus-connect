@@ -26,19 +26,19 @@
       "imageHint": "yoga park"
     },
     {
-      "id": "ganpati",
+      "id": "ganpati-new",
       "description": "A beautiful idol of Lord Ganesha during a festival.",
       "imageUrl": "https://images.unsplash.com/photo-1594957565846-9f8641951a82?q=80&w=600&h=400&fit=crop",
       "imageHint": "ganesha festival"
     },
     {
-      "id": "navratri",
+      "id": "navratri-new",
       "description": "People in traditional attire dancing Garba during Navratri.",
       "imageUrl": "https://images.unsplash.com/photo-1698273836798-e7373f1b5f25?q=80&w=600&h=400&fit=crop",
       "imageHint": "garba dance"
     },
     {
-      "id": "rangoliNew",
+      "id": "rangoli-new",
       "description": "A vibrant and detailed rangoli artwork on a dark surface.",
       "imageUrl": "https://images.unsplash.com/photo-1604430459341-4c74a5a2f5a6?q=80&w=600&h=400&fit=crop",
       "imageHint": "rangoli art"
