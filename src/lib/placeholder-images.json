@@ -28,19 +28,19 @@
     {
       "id": "rangoli",
       "description": "A colorful and intricate rangoli design on the floor.",
-      "imageUrl": "https://images.unsplash.com/photo-1667499388339-5e1a8ab274a4?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://picsum.photos/seed/rangoli-art/600/400",
       "imageHint": "rangoli art"
     },
     {
       "id": "ganpati",
       "description": "A beautiful idol of Lord Ganesha during a festival.",
-      "imageUrl": "https://images.unsplash.com/photo-1695426390190-3987f2a1a812?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://picsum.photos/seed/ganesha-festival/600/400",
       "imageHint": "ganesha festival"
     },
     {
       "id": "navratri",
       "description": "People in traditional attire dancing Garba during Navratri.",
-      "imageUrl": "https://images.unsplash.com/photo-1696619119567-55b5490194cf?q=80&w=600&h=400&fit=crop",
+      "imageUrl": "https://picsum.photos/seed/garba-dance/600/400",
       "imageHint": "garba dance"
     }
   ]
